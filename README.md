@@ -1,7 +1,7 @@
 <h2 align="center">👋 Olá, eu sou Aikellanne!</h2>
 <p align="center">
-  💻 Estudante de Ciência da Computação 
-  🚀 Desenvolvedora Full Stack  
+  💻 Estudante de Ciência da Computação |
+  🚀 Desenvolvedora Full Stack | 
   ☕ Apaixonado por tecnologia, café e desafios. 
 </p>
 
