@@ -1,11 +1,11 @@
-<h3 align="center">👋 Olá, eu sou Aikellanne!</h3>
+<h2 align="center">👋 Olá, eu sou Aikellanne!</h2>
 <p align="center">
   💻 Estudante de Ciência da Computação 
   🚀 Desenvolvedora Full Stack  
   ☕ Apaixonado por tecnologia, café e desafios. 
 </p>
 
-## 🛠️ Tecnologias e Ferramentas  
+### 🛠️ Tecnologias e Ferramentas  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -15,8 +15,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-## 📊 Estatísticas do GitHub  
+### 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aikellanne&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikellanne&layout=compact&theme=tokyonight)  
 
