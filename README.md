@@ -2,7 +2,7 @@
 <p align="center">
   💻 Estudante de Ciência da Computação |
   🚀 Desenvolvedora Full Stack | 
-  ☕ Apaixonado por tecnologia, café e desafios. 
+  ☕ Apaixonada por tecnologia, café e desafios. 
 </p>
 
 ### 🌟 Tecnologias e Ferramentas  
