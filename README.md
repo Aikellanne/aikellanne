@@ -5,7 +5,8 @@
    mas vem se tornando um caminho que me faz sentir no lugar certo. <br>
    Hoje, cursando Ciência da Computação, sigo construindo com calma e vontade  
    meu caminho como desenvolvedora capaz de criar experiências que façam sentido e sejam úteis para as pessoas. <br>
-   Por aqui, compartilho meus estudos, projetos e evolução. Seja bem-vindo(a) 💜
+   Por aqui, compartilho meus estudos, projetos e evolução. <br>
+   Seja bem-vindo(a) 💜
 </p>
 
 <p align="left">
@@ -19,7 +20,7 @@
 </p>
 
 
-### 🌟 Tecnologias e Ferramentas  
+### Tecnologias e Ferramentas  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### 📊 Estatísticas
+### Estatísticas
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikellanne&layout=compact&langs_count=6&count_private=true" />
 </p>
