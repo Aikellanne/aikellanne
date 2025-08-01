@@ -1,8 +1,7 @@
 <img src="perfil.png" width="400px" alt="bonequinho com café" align="right" />
 <h1 align="left">Hi there! 👋</h1>
 <p align="left">
-   Eu sou a Aikellanne, e a tecnologia entrou na minha vida como uma segunda opção,  
-   mas vem se tornando um caminho que me faz sentir no lugar certo. <br>
+   Eu sou a Aikellanne, e a tecnologia entrou na minha vida como uma escolha que uniu paixão, propósito e curiosidade. <br>
    Hoje, cursando Ciência da Computação, sigo construindo com calma e vontade  
    meu caminho como desenvolvedora capaz de criar experiências que façam sentido e sejam úteis para as pessoas. <br>
    Por aqui, compartilho meus estudos, projetos e evolução. <br>
