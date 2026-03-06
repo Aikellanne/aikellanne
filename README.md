@@ -8,17 +8,6 @@
    Seja bem-vindo(a) 💜
 </p>
 
-<p align="left">
-  <a href="mailto:aikellanne18@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="#" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 ### Tecnologias e Ferramentas  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
