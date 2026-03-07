@@ -34,4 +34,3 @@ Currently exploring web development and continuously improving my programming sk
   <img src="https://img.shields.io/badge/Node.js-purple?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-<br>
