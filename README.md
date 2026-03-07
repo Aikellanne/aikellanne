@@ -17,9 +17,11 @@ Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passi
 I enjoy learning new technologies and building projects that turn ideas into practical solutions. 
 Currently exploring web development and continuously improving my programming skills.
 </p>
-<br>
 
+<br>
+<br>
 <h2 align="center">Technologies</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,6 +31,7 @@ Currently exploring web development and continuously improving my programming sk
   <img src="https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-purple?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-purple?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 <br>
 
