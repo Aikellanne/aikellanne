@@ -35,9 +35,3 @@ Currently exploring web development and continuously improving my programming sk
   <img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <br>
-
-<h2 align="center"><img src="img3.png" width="20"/> Statistics</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aikellanne&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aikellanne&layout=compact&theme=radical" height="170"/>
-</p>
