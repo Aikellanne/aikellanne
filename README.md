@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-<!-- Portfolio (adicionar link depois)
+ Portfolio (adicionar link depois)
 <a href="LINK_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white"></a> 
 -->
 </p>
@@ -21,7 +21,7 @@ Currently exploring web development and continuously improving my programming sk
 <br>
 <br>
 
-<h2 align="center"><img src="img2.png" width="25"/> Technologies</h2>
+<h2 align="center"><img src="img2.png" width="20"/> Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +36,7 @@ Currently exploring web development and continuously improving my programming sk
 </p>
 <br>
 
-<h2 align="center"><img src="img3.png" width="25"/> Statistics</h2>
+<h2 align="center"><img src="img3.png" width="20"/> Statistics</h2>
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aikellanne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aikellanne&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
