@@ -1,7 +1,12 @@
 <img src="banner.gif" width="100%">
 <p align="center">
-<a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!--
+  <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+  <a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+<!-- Portfolio (adicionar link depois)
+<a href="LINK_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white"></a> 
+-->
 </p>
 <br>
 
@@ -32,13 +37,8 @@ Currently exploring web development and continuously improving my programming sk
 </p>
 <br>
 
-<h2 align="center"">Statistics</h2>
+<h2 align="center">Statistics</h2>
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aikellanne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aikellanne&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
-
-
-
-
-
