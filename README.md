@@ -1,7 +1,6 @@
 <img src="banner.gif" width="100%">
 <p align="center">
-<!--
-  <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+  <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 <!-- Portfolio (adicionar link depois)
@@ -14,11 +13,11 @@
 <br>
 <img src="pixell.png" width="180" align="right" style="margin-left: 20px;" />
 <br>
-<p>
+<div align="left">
 Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passionate about technology and software development. 
 I enjoy learning new technologies and building projects that turn ideas into practical solutions. 
 Currently exploring web development and continuously improving my programming skills.
-</p>
+</div>
 <br>
 <br>
 
