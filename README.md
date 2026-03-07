@@ -11,7 +11,7 @@
 
 <h2 align="center"><img src="img1.png" width="20"/> About Me</h2>
 <br>
-<img src="pixell.png" width="180" align="right" style="margin-left: 20px;" />
+<img src="pixell.png" width="160" align="right" style="margin-left: 20px;" />
 <br>
 <p align="left">
 Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passionate about technology and software development. 
