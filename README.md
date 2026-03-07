@@ -10,7 +10,7 @@
 <h2 align="center"> <em>About  me </em></h2>
 <br>
 
-<img src="pixel.png" width="250" align="right" style="margin-left: 20px;" />
+<img src="pixell.png" width="250" align="right" style="margin-left: 20px;" />
 <br>
 
 <p>
