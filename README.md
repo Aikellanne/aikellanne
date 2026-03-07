@@ -1,12 +1,12 @@
 <img src="banner.gif" width="100%">
 
 <p align="center">
-<a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail"></a>
+<a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <br>
 
-<h2 align="center">About  me</h2>
+<h2 align="center">About Me</h2>
 <br>
 
 <img src="pixell.png" width="200" align="right" style="margin-left: 20px;" />
@@ -32,6 +32,7 @@ Currently exploring web development and continuously improving my programming sk
   <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-purple?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-purple?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <br>
 
