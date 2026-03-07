@@ -5,22 +5,19 @@
 <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail"></a>
 </p>
+<br>
 
 <h2 align="center"> <em>About  me </em></h2>
+<br>
 
-<table>
-<tr>
-<td width="60%">
-## 👩‍💻 About Me
-Computer Science student passionate about technology and software development.
-Currently learning and building projects with web technologies, focusing on creating practical and real solutions.
-Always exploring new ideas and improving my programming skills.
-</td>
+<img src="pixel.png" width="250" align="right" style="margin-left: 20px;" />
+<br>
 
-<td width="40%">
-<img src="LINK_DA_IMAGEM_PIXEL" width="200px">
-</td>
-</tr>
-</table>
+<p>
+  Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passionate about technology and software development. I enjoy learning new technologies and building projects that turn ideas into practical solutions. Currently exploring web development and continuously improving my programming skills.
+</p>
+
+
+
 
 
