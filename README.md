@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<h2 align="center"><img src="img1.png" width="25"/> About Me</h2>
+<h2 align="center"><img src="img1.png" width="20"/> About Me</h2>
 <br>
 <img src="pixell.png" width="180" align="right" style="margin-left: 20px;" />
 <br>
