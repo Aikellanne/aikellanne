@@ -14,9 +14,9 @@
 <img src="pixell.png" width="180" align="right" style="margin-left: 20px;" />
 <br>
 <p align="left">
-Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passionate about technology and software development. <br>
-I enjoy learning new technologies and building projects that turn ideas into practical solutions. <br>
-Currently exploring web development and continuously improving my programming skills. <br>
+Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passionate about technology and software development. 
+I enjoy learning new technologies and building projects that turn ideas into practical solutions. 
+Currently exploring web development and continuously improving my programming skills. 
 </p>
 <br>
 <br>
