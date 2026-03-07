@@ -15,8 +15,9 @@
 <p>
 Hello there 👋 I'm <b>Aikellanne Almeida</b>, a Computer Science student passionate about technology and software development. I enjoy learning new technologies and building projects that turn ideas into practical solutions. Currently exploring web development and continuously improving my programming skills.
 </p>
+<br>
 
-<h2 align="center"><em> Technologies </em> </h2>
+<h2 align="center"> <em>Technologies</em></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3">
