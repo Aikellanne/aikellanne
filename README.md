@@ -1,4 +1,4 @@
-<img src="bannerr.gif" width="100%">
+<img src="banner.gif" width="100%">
 
 <p align="center">
 <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin"></a>
