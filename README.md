@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="banner.gif" width="100%">
 <p [![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail)](mailto:seuemail@email.com) </p>
 
 <p align="center">
