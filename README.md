@@ -1,6 +1,6 @@
 <img src="banner.gif" width="100%">
 <p align="center">
-  <a href="https://www.linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=["https://www.linkedin.com/in/aikellanne-almeida-20b8263b5/"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aikellannee@gmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 <!--Portfolio (adicionar link depois)
